@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @nimseven7 and I am a Python Developer and a DevOps engineer
-- 👀 I’m interested in Python and DevOps project. Good with FastAPI, Odoo, docker, terraform and AWS.
-- 🌱 I’m currently learning ... No. I'm always learning new things to add to my own skill
+- 👀 I’m interested in Python and DevOps project. Good with FastAPI, docker, terraform and AWS.
 - 💞️ I’m looking to collaborate on any project involving those stacks, and for something new too. You can just check my linkedIn profile from the link below.
 - 📫 How to reach me ? https://www.linkedin.com/in/mino-randrianarivo/
 
