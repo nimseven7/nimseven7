@@ -5,10 +5,11 @@ Hello! I'm Mino Randrianarivo, a trilingual Backend Developer and DevOps Enginee
 
 ## Skills and Technologies
 - **Programming Languages**: Python, JavaScript
+- **Programming mode**: Scripting, OOP, AI-assisted? :p
 - **Frameworks**: FastAPI, Django
 - **Databases**: PostgreSQL, MySQL, MSSQL, Oracle, Azure SQL, DynamoDB
 - **DevOps Tools**: Docker, Kubernetes, Terraform, Ansible, GitLab CI/CD
-- **Cloud Platforms**: AWS, Azure
+- **Cloud Platforms**: AWS
 - **Testing**: pytest
 - **Visualization & Reporting**: Streamlit, Confluence
 - **Other Tools**: Odoo, Pentaho, Neutralino, Qt6, Excel, Notion
