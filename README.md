@@ -1,15 +1,15 @@
 # Mino Randrianarivo
 
 ## Introduction
-Hello! I'm Mino Randrianarivo, a trilingual Backend Developer and DevOps Engineer with over seven years of experience. I specialize in Python development, cloud infrastructure (particularly AWS), CI/CD pipelines, and containerized applications. I have a proven track record of optimizing performance, building scalable backend solutions, and reducing infrastructure costs. I hold an MSc in Mathematics, Computer Science and Applied Statistics (MISA) from the University of Antananarivo.
+Hello! I'm Mino Randrianarivo, a trilingual Backend Developer and DevOps Engineer with over eight years of experience. I specialize in Backend development, cloud infrastructure (particularly AWS), CI/CD pipelines, and containerized applications. I have a proven track record of optimizing performance, building scalable backend solutions, and reducing infrastructure costs.
 
 ## Skills and Technologies
 - **Programming Languages**: Python, JavaScript
 - **Programming mode**: Scripting, OOP, AI-assisted? :p
 - **Frameworks**: FastAPI, Django
 - **Databases**: PostgreSQL, MySQL, MSSQL, Oracle, Azure SQL, DynamoDB
-- **DevOps Tools**: Docker, Kubernetes, Terraform, Ansible, GitLab CI/CD
-- **Cloud Platforms**: AWS
+- **DevOps Tools**: Docker, Kubernetes, Terraform, Ansible, GitLab CI/CD, Azure DevOps
+- **Cloud Platforms**: AWS, Azure
 - **Testing**: pytest
 - **Visualization & Reporting**: Streamlit, Confluence
 - **Other Tools**: Odoo, Pentaho, Neutralino, Qt6, Excel, Notion
@@ -29,7 +29,7 @@ Hello! I'm Mino Randrianarivo, a trilingual Backend Developer and DevOps Enginee
 - **Server & Infrastructure Upgrades**: Led multiple server upgrades including domain migration from LDAP to SAMBA4 AD and router reconfiguration with firewall, load balancing, and VPN setups.
 
 ## Contact Information
-- 📧 **Email**: minotolotra3@gmail.com
+- 📧 **Email**: mino@nimseven.dev
 - 👔 **LinkedIn**: [Mino Randrianarivo](https://www.linkedin.com/in/mino-randrianarivo/)
 
 ---
